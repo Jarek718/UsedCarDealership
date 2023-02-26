@@ -1,6 +1,5 @@
 # Used Car Dealership
-Prof. Greenbuerg 370
-Sunday Class Sec 46
+Prof. Greenbuerg
 
 ## Team 4
 - Jaroslaw Rybak
